@@ -22,11 +22,17 @@ Sou estudante de Engenharia de Software na Universidade Positivo, atualmente no 
 - Organização e Gestão de Tempo;
 - Resolução de Conflitos;
 
+### Idiomas
+- Português Brasileiro (Nativo)
+- Inglês (Intermediário)
+- Espanhol (Iniciante/Intermediário)
+- Japonês (Básico)
+
 ### Projeto de Destaque: SISTEMA DE GESTÃO FLORESTAL
 
 Entrevista com um Product Owner real, onde um questionário foi feito para identificar todas as dores do processo de trabalho do negócio. Baseado nisso, uma persona foi criada para compreender a melhor forma de atender aos requisitos do usuário e enfim iniciamos o desenvolvimento do software. 
 Um sistema de monitoramento de combustível e gastos de máquinas agrícolas foi criado, equipado com dashboards, registro de maquinários com CRUD e atualização de nível de combustível/manutenções.
 
-CONTATO:
+### CONTATO
 E-mail: jvictoralves.padilha@gmail.com
 LinkedIn: www.linkedin.com/in/joão-victor-alves-padilha-92bb0434a
