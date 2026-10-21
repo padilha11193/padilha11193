@@ -8,6 +8,7 @@ Sou estudante de Engenharia de Software na Universidade Positivo, atualmente no 
 - SQL (Iniciante)
 - HTML (Iniciante)
 - CSS (Básico)
+- JavaScript (Básico)
 
 ### Ferramentas:
 - MySQL (Iniciante)
