@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software na Universidade Positivo, atualmente no 2º Período da faculdade. Tenho interesse em desenvolvimento de sistemas, gestão de projetos e UI/UX. Contudo, ainda não desempenho nas áreas mencionadas. Gosto de aprender e aplicar novos conceitos a todo momento, visto que o aprendizado preenche lacunas na conhecimento de tecnologias já dominadas.
 
-### Linguagens de Programação:
+## Linguagens de Programação:
 - Python (Iniciante)
 - C (Básico)
 - SQL (Iniciante)
@@ -10,35 +10,35 @@ Sou estudante de Engenharia de Software na Universidade Positivo, atualmente no 
 - CSS (Iniciante)
 - JavaScript (Básico)
 
-### Ferramentas de Bancos de Dados:
+## Ferramentas de Bancos de Dados:
 - MySQL (Iniciante)
 
-### Metodologias:
+## Metodologias:
 - Scrum
 - Kanban
 - Desenvolvimento Ágil
 
-### SOFT SKILLS:
+## SOFT SKILLS:
 - Trabalho em Equipe;
 - Organização e Gestão de Tempo;
 - Resolução de Conflitos;
 
-### Idiomas
+## Idiomas
 - Português Brasileiro (Nativo)
 - Inglês (Intermediário)
 - Espanhol (Iniciante/Intermediário)
 - Japonês (Básico)
 
-### Projeto de Destaque 
-## SISTEMA DE GESTÃO FLORESTAL
+## Projetos de Destaque 
+### SISTEMA DE GESTÃO FLORESTAL
 
 Entrevista com um Product Owner real, onde um questionário foi feito para identificar todas as dores do processo de trabalho do negócio. Baseado nisso, uma persona foi criada para compreender a melhor forma de atender aos requisitos do usuário e enfim iniciamos o desenvolvimento do software. 
 Um sistema de monitoramento de combustível e gastos de máquinas agrícolas foi criado, equipado com dashboards, registro de maquinários com CRUD e atualização de nível de combustível/manutenções.
 
-## SISTEMA DE BIBLIOTECA EM PYTHON
+### SISTEMA DE BIBLIOTECA EM PYTHON
 
 Desenvolvimento de aplicação em Python aplicando conceitos fundamentais de Programação Orientada a Objetos. Implementação de funcionalidades de cadastro, consulta, atualização e exclusão (CRUD) de livros e perfis de usuários.
 
-### CONTATO
+## CONTATO
 E-mail: jvictoralves.padilha@gmail.com
 LinkedIn: www.linkedin.com/in/joão-victor-alves-padilha-92bb0434a
